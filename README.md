@@ -1,1 +1,1 @@
-Link: https://sm492005kumaran.github.io/naanmudhalvan/
+Link: https://github.com/SM492005kumaran/naanmudhalvan.git
